@@ -5,9 +5,9 @@ A ligth weight router module just like ExpressJS, it's easy to use and easy to u
 
 ## 🗽 Features
 
-- Eays to learn
-- Every functions you need to.
-- Lightweitght and fast as lightning
+- Easy to learn
+- Every functions you need.
+- Lightweight and fast as lightning
 - Cross platform
 
 
@@ -19,15 +19,25 @@ You can install LightRoute via NPM/YARN
   npm install lightroute
   yarn add lightroute
 ```
+
+## Lets Start Building 🚀
+```js
+const lightroute = require("@kubilaytr/lightroute")
+const app = new lightroute()
+
+app.get("/", (req,res) => {
+    res.text("Hello World!")
+})
+
+app.listen(80,function(){
+    console.log("Listening 80")
+})
+```
     
 ## 🚀 Documentation
 You can learn how to use it from GitBook
 
 [Documentation](https://lightroute.gitbook.io/)
-
-
-
-
 
 
 ## ❓ Support
