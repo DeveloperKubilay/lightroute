@@ -16,8 +16,8 @@ A ligth weight router module just like ExpressJS, it's easy to use and easy to u
 You can install LightRoute via NPM/YARN
 
 ```bash
-  npm install lightroute
-  yarn add lightroute
+npm install @kubilaytr/lightroute
+yarn add @kubilaytr/lightroute
 ```
 
 ## Lets Start Building 🚀
