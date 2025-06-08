@@ -42,16 +42,6 @@ You can learn how to use it from GitBook
 [Documentation](https://lightroute.gitbook.io/)
 
 
-## ❓ Support
-You can get support from our discord servers
-
-[![](https://dcbadge.vercel.app/api/server/MSyvQpurXc)](https://discord.gg/MSyvQpurXc)
-
-[![](https://dcbadge.vercel.app/api/server/whW7c9azVF)](https://discord.gg/whW7c9azVF)
-
-
-
-
 ## 📰 License
 
 [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
@@ -61,4 +51,3 @@ You can get support from our discord servers
 
 - [@YiitWT](https://www.github.com/YiitWT)
 - [@DeveloperKubilay](https://www.github.com/developerkubilay)
-
