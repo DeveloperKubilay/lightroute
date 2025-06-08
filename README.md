@@ -33,6 +33,8 @@ app.listen(80,function(){
     console.log("Listening 80")
 })
 ```
+
+![lightroute](https://raw.githubusercontent.com/DeveloperKubilay/lightroute/refs/heads/main/cdn/image.png)
     
 ## 🚀 Documentation
 You can learn how to use it from GitBook
