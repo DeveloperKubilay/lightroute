@@ -345,12 +345,12 @@ class lightroute {
 
   listen(port, callback) {
     this.server = net.createServer((socket) => {
-      // Bağlantı zaman aşımı ekleyelim
       socket.setTimeout(this.options.timeout);
       socket.on('timeout', () => {
         socket.end();
       });
-      
+      // Hataları yut, server patlamasın
+      socket.on('error', (err) => {});
       socket.on("data", swrite.bind(this, socket));
     });
     
