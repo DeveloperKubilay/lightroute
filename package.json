@@ -1,6 +1,6 @@
 {
   "name": "@kubilaytr/lightroute",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "A ligth weight router module just like ExpressJS, it's easy to use and easy to understand and it's a good choice for beginners.",
   "main": "index.js",
   "scripts": {
